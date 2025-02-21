@@ -1,0 +1,26 @@
+body{
+    background-color: #fff2f1;
+  }
+  p{
+      font-family: "Montserrat", serif;
+      font-optical-sizing: auto;
+      font-weight: weight;
+      font-style: normal;
+    }
+    img{
+    border-radius: 50px;
+    border: white;
+    }
+    h1{
+      background-color: #FA8072;
+    }
+    button{
+      border-radius: 50px;
+      text-decoration: none;
+      background-color: #FA8072;
+      border: none;
+    }
+    a{
+      color: black;
+      text-decoration: none;
+    }
